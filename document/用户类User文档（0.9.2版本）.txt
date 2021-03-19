@@ -1,0 +1,17 @@
+标注有*号的信息为注册时必须要提交的资料
+
+*用户名 	userName
+*密码 	password
+*昵称 	nickName
+*真实姓名	trueName
+*学号		schoolNumber
+*电话号码	phoneNumber
+学校名字	schoolName
+*专业		subjectName
+*性别		sex
+班级名字	className
+头像		headImage
+格言		motto
+上次登录时间	lastTime
+一周时间	weekTime
+权限		permit
